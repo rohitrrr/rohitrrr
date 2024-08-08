@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Machine Learning Gif](https://i.gifer.com/OyGx.gif)
+![Test GIF](https://i.gifer.com/OyGx.gif)
+
 
 Welcome to my GitHub profile! I'm **Rohit Rathod**, currently pursuing my M.Tech in Information and Communication Technology with a specialization in Machine Learning at Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT).
 
