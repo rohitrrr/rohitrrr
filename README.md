@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Machine Learning Gif](https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif)
+![Machine Learning Gif]([https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif](https://iconscout.com/lottie-animation/machine-learning-8323610))
 
 **rohitrrr/rohitrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
