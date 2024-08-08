@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Computer Engineer Gif](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![Machine Learning Gif](https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif)
 
 **rohitrrr/rohitrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
