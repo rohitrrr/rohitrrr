@@ -19,19 +19,14 @@ Welcome to my GitHub profile! I'm **Rohit Rathod**, currently pursuing my M.Tech
 - Open-source contributions related to AI and Data Science
 - Innovative solutions in Digital Image Processing
 
-### 🤔 I’m looking for help with
-- Advanced Deep Learning model optimization
-- Integrating new techniques into existing ML workflows
-- Collaborating on research papers and technical challenges
-
 ### 💬 Ask me about
 - Data Science and Machine Learning techniques
 - Tools like Google Colab, GitHub, VS Code, and Pytorch
 - My experience with teaching Assistant roles and academic projects
 
 ### 📫 How to reach me
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/rohit-rathod)
+- [Email](mailto:202311039@daiict.ac.in)
+- [LinkedIn](https://www.linkedin.com/in/rohit-rathod-156141214/)
 
 ### 😄 Pronouns
 - He/Him
