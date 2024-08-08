@@ -29,8 +29,7 @@ Welcome to my GitHub profile! I'm **Rohit Rathod**, currently pursuing my M.Tech
 - [Email](mailto:202311039@daiict.ac.in)
 - [LinkedIn](https://www.linkedin.com/in/rohit-rathod-156141214/)
 
-### 😄 Pronouns
-- He/Him
+
 
 ### ⚡ Fun fact
 - I enjoy reading, fitness, and cricket. I’m always up for discussing the latest in technology or sharing tips on staying fit!
